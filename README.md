@@ -28,9 +28,9 @@
 
 ## Installation
 * Download the latest release form releases section
-* Extract the Quest-to-Speech directory and place it somewhere on your pc
+* Extract content of APPLICATION directory and place it somewhere on your pc (e.g. "C:/Program Files/Quest-to-Speech")
 * Extract content of WoWAddon to your wow installation (e.g. "C:/Program Files/World of Warcraft/_classic_/Interface/Addons/QuestToSpeech")
-* Start Quest-to-Speech.exe from Quest-to-Speech directory
+* Start Quest-to-Speech.exe from Quest-to-Speech directory (and create a desktop link)
 * Setup apis you maybe want, enable the modules and select voices
 * From there you are ready to go, click Start and head into wow to test it
 * Have fun
