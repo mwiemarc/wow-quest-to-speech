@@ -1,8 +1,8 @@
 # Quest-to-Speech *(World of Warcraft)*
-###**Speech synthesizer for npc dialogs in world of warcraft**
+### **Speech synthesizer for npc dialogs in world of warcraft**
 
 &nbsp;
-##**Features**
+## **Features**
 * Should support every dialog and text window from npcs and items, also from questlog
 * Supports multiple text-to-speech engines (at the same time)
 * You can select as much voices as you want and as you play a text a random voice will be picked
@@ -24,7 +24,7 @@
 * From your selected voices a random one will be picked
 * Using a text-to-speech module to generate the sound output and play it
 
-#**Addon commands**
+# **Addon commands**
 * **/qts** - show addon options
 * **/qts history** - show a history of the last 20 copied texts
 * **/qts autofocus on/off** - sets autofocus of copy textbox on show (default is off)
@@ -46,7 +46,7 @@
 
 &nbsp;
 &nbsp;
-#**Screenshots**
+# **Screenshots**
 
 ![WoW Addon](https://i.imgur.com/eGRExJZ.jpg "WoW Addon")
 ![PC Software](https://i.imgur.com/Fewbb9w.png "PC Software")
