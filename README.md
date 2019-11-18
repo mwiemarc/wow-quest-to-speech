@@ -1,5 +1,6 @@
 # Quest-to-Speech *(World of Warcraft)*
 ### **Speech synthesizer for npc dialogs in world of warcraft**
+#### currently works with wow classic (retail will follow soon)
 
 &nbsp;
 ## **Features**
@@ -14,8 +15,6 @@
 * **/qts** - show addon options
 * **/qts history** - show a history of the last 20 copied texts
 * **/qts autofocus on/off** - sets autofocus of copy textbox on show (default is off)
-
-### currently works with wow classic (retail will follow soon)
 
 &nbsp;
 &nbsp;
