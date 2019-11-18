@@ -1,0 +1,13 @@
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\bin\Debug\wow-dialog-to-speech.exe.config
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\bin\Debug\wow-dialog-to-speech.exe
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\bin\Debug\wow-dialog-to-speech.pdb
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\bin\Debug\CSCore.dll
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\bin\Debug\CSCore.xml
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow-dialog-to-speech.csprojAssemblyReference.cache
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow_dialog_to_speech.MainForm.resources
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow_dialog_to_speech.Properties.Resources.resources
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow-dialog-to-speech.csproj.GenerateResource.cache
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow-dialog-to-speech.csproj.CoreCompileInputs.cache
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow-dialog-to-speech.csproj.CopyComplete
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow-dialog-to-speech.exe
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-dialog-to-speech\wow-dialog-to-speech\obj\Debug\wow-dialog-to-speech.pdb

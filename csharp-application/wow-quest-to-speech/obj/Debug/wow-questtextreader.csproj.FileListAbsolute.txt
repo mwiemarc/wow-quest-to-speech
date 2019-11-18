@@ -1,0 +1,10 @@
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\obj\Debug\wow-questtextreader.csprojAssemblyReference.cache
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\obj\Debug\wow_questtextreader.Form1.resources
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\obj\Debug\wow_questtextreader.Properties.Resources.resources
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\obj\Debug\wow-questtextreader.csproj.GenerateResource.cache
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\obj\Debug\wow-questtextreader.csproj.CoreCompileInputs.cache
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\bin\Debug\wow-questtextreader.exe.config
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\bin\Debug\wow-questtextreader.exe
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\bin\Debug\wow-questtextreader.pdb
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\obj\Debug\wow-questtextreader.exe
+D:\Eigene Dateien\Dokumente\Projekte\CSharp\wow-questtextreader\wow-questtextreader\obj\Debug\wow-questtextreader.pdb

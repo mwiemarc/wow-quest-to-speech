@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: Quest|cff707070-|r|cfffffffftto|r|cff707070-|r|cff00ff00Speech|r
+## Notes: Ingame component for QuestToSpeech
+## Author: mwiemarc aka Maxhealth-Venoxis
+## Version: 0.1.0-beta
+## SavedVariables: QTS_GlobalConfig
+
+util.lua
+default_config.lua
+main.lua
