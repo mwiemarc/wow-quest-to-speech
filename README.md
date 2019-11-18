@@ -10,14 +10,12 @@
 * Minimize to tray
 * Super easy to use
 
-&nbsp;
-
 #### **Addon commands**
 * **/qts** - show addon options
 * **/qts history** - show a history of the last 20 copied texts
 * **/qts autofocus on/off** - sets autofocus of copy textbox on show (default is off)
 
-## currently works with wow classic (retail will follow soon)
+### currently works with wow classic (retail will follow soon)
 
 &nbsp;
 &nbsp;
