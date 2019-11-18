@@ -17,7 +17,6 @@
 * **/qts autofocus on/off** - sets autofocus of copy textbox on show (default is off)
 
 &nbsp;
-&nbsp;
 
 ## How it works
 * A wow addon encodes the text and additional informations like the gender
@@ -25,6 +24,16 @@
 * As you copy the text (CTRL+C or +X) a pc programm will detect that and starts working
 * From your selected voices a random one will be picked
 * Using a text-to-speech module to generate the sound output and play it
+
+
+### supported text-to-speech engines
+* windows buildin
+* azure cloud
+* google cloud 
+* amazon aws
+
+&nbsp;
+&nbsp;
 
 ## Installation
 * Download the latest release form releases section
@@ -34,12 +43,6 @@
 * Setup apis you maybe want, enable the modules and select voices
 * From there you are ready to go, click Start and head into wow to test it
 * Have fun
-
-### supported text-to-speech engines
-* windows buildin
-* azure cloud
-* google cloud 
-* amazon aws
 
 &nbsp;
 &nbsp;
