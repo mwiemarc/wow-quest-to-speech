@@ -12,17 +12,17 @@
 
 &nbsp;
 
-# **Addon commands**
+#### **Addon commands**
 * **/qts** - show addon options
 * **/qts history** - show a history of the last 20 copied texts
 * **/qts autofocus on/off** - sets autofocus of copy textbox on show (default is off)
 
-##### currently works with wow classic (retail will follow soon)
+## currently works with wow classic (retail will follow soon)
 
 &nbsp;
 &nbsp;
 
-### How it works
+## How it works
 * A wow addon encodes the text and additional informations like the gender
 * The encoded text will be displayed in a frame over the dialog
 * As you copy the text (CTRL+C or +X) a pc programm will detect that and starts working
