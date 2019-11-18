@@ -10,19 +10,7 @@
 * Minimize to tray
 * Super easy to use
 
-### supported text-to-speech engines
-* windows buildin
-* azure cloud
-* google cloud 
-* amazon aws
-
 &nbsp;
-### How it works
-* A wow addon encodes the text and additional informations like the gender
-* The encoded text will be displayed in a frame over the dialog
-* As you copy the text (CTRL+C or +X) a pc programm will detect that and starts working
-* From your selected voices a random one will be picked
-* Using a text-to-speech module to generate the sound output and play it
 
 # **Addon commands**
 * **/qts** - show addon options
@@ -34,6 +22,13 @@
 &nbsp;
 &nbsp;
 
+### How it works
+* A wow addon encodes the text and additional informations like the gender
+* The encoded text will be displayed in a frame over the dialog
+* As you copy the text (CTRL+C or +X) a pc programm will detect that and starts working
+* From your selected voices a random one will be picked
+* Using a text-to-speech module to generate the sound output and play it
+
 ## Installation
 * Download the latest release form releases section
 * Extract the Quest-to-Speech directory and place it somewhere on your pc
@@ -43,9 +38,15 @@
 * From there you are ready to go, click Start and head into wow to test it
 * Have fun
 
+### supported text-to-speech engines
+* windows buildin
+* azure cloud
+* google cloud 
+* amazon aws
 
 &nbsp;
 &nbsp;
+
 # **Screenshots**
 
 ![WoW Addon](https://i.imgur.com/eGRExJZ.jpg "WoW Addon")
